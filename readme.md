@@ -108,6 +108,7 @@ gpgcheck=1
 enabled=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
 ```
+```
 
 2. **Mettre à jour les paquets et installer Nginx** :
 
